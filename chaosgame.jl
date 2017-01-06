@@ -1,4 +1,5 @@
-# Code for the chaos game
+# Code for the Chaos Game
+
 
 using PyCall
 @pyimport matplotlib.pyplot as plt
